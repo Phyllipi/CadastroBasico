@@ -20,6 +20,7 @@ fieldset {
 }
 
 body {
+    background-image: linear-gradient( to right, red, green, yellow, blue );
     background-color: #F0F8FF;
     font-family: sans-serif;
     font-size: 1em;
